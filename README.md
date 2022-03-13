@@ -5,7 +5,7 @@
 In this assignment, I will use the Basic World Cities Database. 
 It can be downloaded for free from https://simplemaps.com/data/world-cities
 
-## Problem:
+## Task:
 Use  the  unique  latitude  values  of  each  city  in  Norway  only. You  need  to  construct  the 
 frequencies, either by random choice or dynamically as you search.  
 
